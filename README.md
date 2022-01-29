@@ -7,13 +7,13 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TroJanzHEX/Auto-Filter-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Auto-Filter-Bot?style=social">
+  <a href="https://github.com/MSTL-UPDATES/Auto-Filter-Bot/stargazers">
+    <img src="https://img.shields.io/github/stars/MSTL-UPDATES/Auto-Filter-Bot?style=social">
 
   </a>
   
-  <a href="https://github.com/TroJanzHEX/Auto-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/TroJanzHEX/Auto-Filter-Bot?label=Fork&style=social">
+  <a href="https://github.com/MSTL-UPDATES/Auto-Filter-Bot/fork">
+    <img src="https://img.shields.io/github/forks/MSTL-UPDATES/Auto-Filter-Bot?label=Fork&style=social">
 
   </a>  
 </p>
@@ -43,7 +43,7 @@
 
 [Click here to see tutorial video](https://youtu.be/KQVYQAOsFYY)
 
-Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
+Thanks to [MSTL UPDATES](https://telegram.dog/STLbotz) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
 
 ## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
 
@@ -51,11 +51,11 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Auto-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MSTL-UPDATES/Auto-Filter-Bot)
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Auto-Filter-Bot
+git clone https://github.com/MSTL-UPDATES/Auto-Filter-Bot
 cd Auto-Filter-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
